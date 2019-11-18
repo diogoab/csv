@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env groovy
+#!/usr/bin/env groovy
 GENERATE_DATE='18-11-2019 17:59:24'
 PLAN_VERSION='v0.2-utf-8-18/11/2019'
 WORKSPACE='asdf'
