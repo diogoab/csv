@@ -1,2 +1,2 @@
-DB_URL="hello"
-DB_URL2="hello2"
+DB_URL=hello
+DB_URL2=hello2
